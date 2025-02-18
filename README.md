@@ -1,3 +1,5 @@
-<h1> Sistema de Registro </h1>
+<h1 align="center"> **Primer Proyecto** </h1>
 
-- Estado del proyecto: En contrucción.
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
